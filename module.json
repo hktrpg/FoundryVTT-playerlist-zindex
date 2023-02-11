@@ -18,11 +18,6 @@
     ],
     "styles": [],
     "languages": [
-        {
-            "lang": "en",
-            "name": "English",
-            "path": "./lang/en.json"
-        }
     ],
     "url": "https://github.com/hktrpg/FoundryVTT-playerlist-zindex",
     "manifest": "https://raw.githubusercontent.com/hktrpg/FoundryVTT-playerlist-zindex/v10.01/module.json",
