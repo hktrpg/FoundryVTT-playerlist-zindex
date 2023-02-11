@@ -4,7 +4,6 @@ Hooks.on("renderSceneControls", (dialog, $element) => {
   html.style.pointerEvents = 'visible';
   html.style.overflowY = "scroll";
   const style = document.createElement("style");
-  style.innerHTML = ".flexrow#controls::-webkit-scrollbar { display: none !important;} .flexrow#controls::-webkit-scrollbar-thumb { display: none !important;}";
-
+  style.innerHTML = ".flexrow#controls::-webkit-scrollbar { display: none;} .flexrow#controls::-webkit-scrollbar-thumb { display: none;}";
   document.head.appendChild(style);
 });
