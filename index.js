@@ -1,8 +1,6 @@
 Hooks.on("renderSceneControls", (dialog, $element) => {
-  const html = document.querySelector('.main-controls');
-  html.style.height = '80vh';
-  html.style.flex = 'initial';
+  const html = document.querySelector('.flexrow#controls');
+  html.style.width = 'fit-content';
+  html.style.pointerEvents = 'visible';
   html.style.overflowY = "scroll";
-  html.style.pointerEvents = "auto";
-  html.style.padding ="5px"
 });
