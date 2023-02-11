@@ -20,6 +20,6 @@
     "languages": [
     ],
     "url": "https://github.com/hktrpg/FoundryVTT-playerlist-zindex",
-    "manifest": "https://raw.githubusercontent.com/hktrpg/FoundryVTT-playerlist-zindex/v10.03/module.json",
-    "download": "https://github.com/hktrpg/FoundryVTT-playerlist-zindex/archive/refs/heads/v10.03.zip"
+    "manifest": "https://raw.githubusercontent.com/hktrpg/FoundryVTT-playerlist-zindex/main/module.json",
+    "download": "https://github.com/hktrpg/FoundryVTT-playerlist-zindex/archive/refs/heads/main.zip"
 }
